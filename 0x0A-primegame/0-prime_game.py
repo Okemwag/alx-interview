@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Prime game module.
+"""Python script to solve Prime game algorithm.
 """
 
 
